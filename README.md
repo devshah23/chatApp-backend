@@ -1,0 +1,14 @@
+Hi I am Dev Shah
+
+This is the backend of the MERN Chat APP
+
+ENV VARIABLES
+Please add this env variables in the env File
+MONGO_URI  
+JWT_SECRET
+ADMIN_SECRET_KEY
+NODE_ENV
+CLIENT_URL 
+CLOUDINARY_CLOUD_NAME
+CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET
